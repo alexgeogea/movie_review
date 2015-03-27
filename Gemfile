@@ -43,3 +43,5 @@ gem 'devise', '~> 3.4.1'
 gem 'carrierwave', '~> 0.10.0'
 
 gem 'bootstrap-sass', '~> 3.3.4.1' 
+
+gem 'searchkick', '~> 0.8.7'
